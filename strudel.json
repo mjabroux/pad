@@ -1,4 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/switchangel/pad/main/",
-  "pad": ["pad/10_switch_angel_pad.wav", "pad/11_switch_angel_pad.wav","pad/12_switch_angel_pad.wav","pad/13_switch_angel_pad.wav","pad/14_switch_angel_pad.wav"]
+  "swpad": ["pad/10_switch_angel_pad.wav", "pad/11_switch_angel_pad.wav","pad/12_switch_angel_pad.wav","pad/13_switch_angel_pad.wav","pad/14_switch_angel_pad.wav"]
 }
